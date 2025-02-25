@@ -14,4 +14,4 @@ We also own [PlasmaHost](https://plasmahost.net/) and [CarbonMC](https://carbonm
 -----------------------------------
 
 
-![L2kWD7P](https://i.imgur.com/L2kWD7P.png)
+![L2kWD7P](https://i.imgur.com/IPWyfUi.png)
