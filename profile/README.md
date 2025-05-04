@@ -8,7 +8,7 @@ We also own [PlasmaHost](https://plasmahost.net/) and [CarbonMC](https://carbonm
 
 ### Website: https://plasma.services/
 -----------------------------------
-### Discord: https://dsc.gg/plasmadev
+### Discord: https://discord.plasma.services/
 -----------------------------------
 ### Twitter: https://x.com/Plasma_Services
 -----------------------------------
