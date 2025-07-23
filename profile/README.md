@@ -8,6 +8,10 @@ We also own [PlasmaHost](https://plasmahost.net/) and [CarbonMC](https://carbonm
 
 ### Website: https://plasma.services/
 -----------------------------------
+### Tracker: https://tracker.plasma.services/
+-----------------------------------
+### Status: https://status.plasma.services/
+-----------------------------------
 ### Discord: https://discord.plasma.services/
 -----------------------------------
 ### Twitter: https://x.com/Plasma_Services
