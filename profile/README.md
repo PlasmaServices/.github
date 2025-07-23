@@ -6,13 +6,13 @@ We also own [PlasmaHost](https://plasmahost.net/) and [CarbonMC](https://carbonm
 
 ## Our Socials:
 
-### Website: https://plasma.services/
+### Website: https://plsrv.co/website
 -----------------------------------
-### Tracker: https://tracker.plasma.services/
+### Tracker: https://plsrv.co/tracker
 -----------------------------------
-### Status: https://status.plasma.services/
+### Status: https://plsrv.co/status
 -----------------------------------
-### Discord: https://discord.plasma.services/
+### Discord: https://plsrv.co/discord
 -----------------------------------
 ### Twitter: https://x.com/Plasma_Services
 -----------------------------------
